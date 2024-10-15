@@ -23,5 +23,5 @@ You can often find me at the gym 🏋️‍♀️, cooking 🍳, or catching up 
 
 Feel free to connect if you share similar interests or want to collaborate!
 
-Best regards,
-Ranya
+All the best,
+Ranya Ammor
