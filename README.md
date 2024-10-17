@@ -13,6 +13,9 @@ This sparked my curiosity to apply data analytics to create meaningful personali
 I hold a Bachelor's in Finance and Business Analytics from McGill University, and seeing the impact data could have on personal finance management, I decided to dive deeper by pursuing a Master of Management in Analytics at McGill as well.
 Through this program, I aim to further refine my analytical skills and apply them to create impactful financial solutions for both individuals and businesses.
 
+The projects on my page are the course projects that I enjoyed the most, and they reflect my journey through analytics and finance—feel free to check them out! 
+They represent some of the practical skills I've gained along the way.
+
 Outside of work, I love traveling, especially going on road trips with my family 🌍.
 We’ve done Route 66, the West Coast, and Eastern Europe so far! I also adore watching movies and exploring cinema from all countries 🎬.
 I’m super open-minded when it comes to films, as you can find excellent ones that aren't necessarily mainstream. My favorite movie this year is Le Comte de Monte Cristo.
