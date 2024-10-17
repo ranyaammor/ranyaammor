@@ -6,7 +6,7 @@ My journey into the world of analytics started with my desire to understand how 
 Since then, I've developed a deep interest in Financial Analytics.
 
 I’ve worked as a Special Accounts Analyst at the Development Bank of Canada, where I analyzed financial data for bankrupt startups, and as a Research Assistant at RedBirds SportShop McGill, where I optimized sales using data-driven strategies. 
-These roles helped me refine my skills and explore how data can solve real-world financial challenges.
+These roles helped me refine my skills and explore how data can solve real-world business challenges.
 During my time in Dubai, I also taught personal finance fundamentals to individuals navigating a fast-paced, high-consumption economy.
 This sparked my curiosity to apply data analytics to create meaningful personalized financial solutions.
 
