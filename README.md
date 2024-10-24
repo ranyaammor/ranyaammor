@@ -5,10 +5,7 @@ I currently live in Montreal, Canada 🇨🇦, a vibrant and diverse city known 
 My journey into the world of analytics started with my desire to understand how analytics can overcome the complexities of personal finance.
 Since then, I've developed a deep interest in Financial Analytics.
 
-I’ve worked as a Special Accounts Analyst at the Development Bank of Canada, where I analyzed financial data for bankrupt startups, and as a Research Assistant at RedBirds SportShop McGill, where I optimized sales using data-driven strategies. 
-These roles helped me refine my skills and explore how data can solve real-world business challenges.
-During my time in Dubai, I also taught personal finance fundamentals to individuals navigating a fast-paced, high-consumption economy.
-This sparked my curiosity to apply data analytics to create meaningful personalized financial solutions.
+At the Development Bank of Canada, I analyzed the financial data of over 50 bankrupt startups, focusing on liabilities and drafting legal documents for syndicates and lawyers. My efforts streamlined bankruptcy processes for companies with $1M+ in debt, ensuring accurate communication of outstanding liabilities. At McGill’s RedBirds SportShop, I leveraged sales, financial, and social media data to design targeted marketing campaigns and social media posts, boosting product visibility and driving a 10% profit increase in just six months.
 
 I hold a Bachelor's in Finance and Business Analytics from McGill University, and seeing the impact data could have on personal finance management, I decided to dive deeper by pursuing a Master of Management in Analytics at McGill as well.
 Through this program, I aim to further refine my analytical skills and apply them to create impactful financial solutions for both individuals and businesses.
